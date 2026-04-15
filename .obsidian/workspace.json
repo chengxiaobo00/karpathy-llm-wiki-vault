@@ -11,13 +11,36 @@
             "id": "c32a6f7d48c88851",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "image",
+              "state": {
+                "file": "git2.png"
+              },
+              "icon": "lucide-image",
+              "title": "git2"
+            }
+          },
+          {
+            "id": "1f4b56785c32be65",
+            "type": "leaf",
+            "state": {
+              "type": "smart-release-notes-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "file-text",
+              "title": "Release Notes"
+            }
+          },
+          {
+            "id": "f13c7c14bb63a97c",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-release-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Release Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,13 +180,33 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "6117f2d510ce4422",
+            "type": "leaf",
+            "state": {
+              "type": "smart-env-status-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-env-status-view"
+            }
+          },
+          {
+            "id": "4059cabc165226fe",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,12 +218,15 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "gemini-assistant:New Gemini chat": false,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "c32a6f7d48c88851",
+  "active": "f13c7c14bb63a97c",
   "lastOpenFiles": [
+    "git2.png",
+    "git1.png",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Skills",
     "gemini-scribe/Prompts",
@@ -189,8 +235,6 @@
     "raw/01-articles/提示设计策略  _  Gemini API.md",
     "raw/01-articles/git sync.md",
     "README.md",
-    "git2.png",
-    "git1.png",
     "assets/git2.png",
     "assets/git1.png",
     "karpathy-llm-wiki-vault/wiki/syntheses/5c-prompt-markdown-note-taking.md",
@@ -219,7 +263,6 @@
     "karpathy-llm-wiki-vault/wiki",
     "karpathy-llm-wiki-vault/raw/09-archive/The Complete Prompt Engineering Guide (2025).md",
     "karpathy-llm-wiki-vault/raw/03-transcripts/Prompt Engineering Full Course.md",
-    "karpathy-llm-wiki-vault/raw/01-articles/提示设计策略  _  Gemini API.md",
     "karpathy-llm-wiki-vault/raw/02-papers/Goolge-Prompt-Engineering-whitepaper.pdf",
     "karpathy-llm-wiki-vault/assets/Karpathy LLM Wiki.png",
     "karpathy-llm-wiki-vault/assets/hq720.jpg",
