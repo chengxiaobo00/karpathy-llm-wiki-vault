@@ -186,6 +186,8 @@
   },
   "active": "e0b59f88a39f9cf7",
   "lastOpenFiles": [
+    "assets/git2.png",
+    "assets/git1.png",
     "README.md",
     "karpathy-llm-wiki-vault/wiki/syntheses/5c-prompt-markdown-note-taking.md",
     "karpathy-llm-wiki-vault/wiki/sources/摘要-prompt-engineering-2025-guide-promptbuilder.md",
@@ -216,7 +218,6 @@
     "karpathy-llm-wiki-vault/raw/01-articles/提示设计策略  _  Gemini API.md",
     "karpathy-llm-wiki-vault/raw/01-articles/The Complete Guide to AI Prompt Engineering in 2025-2026.md",
     "karpathy-llm-wiki-vault/raw/01-articles/Prompting best practices-Anthropic.md",
-    "karpathy-llm-wiki-vault/raw/01-articles/Prompt Engineering in 2025_ Complete Guide for ChatGPT, Claude, and Gemini.md",
     "karpathy-llm-wiki-vault/raw/02-papers/Goolge-Prompt-Engineering-whitepaper.pdf",
     "karpathy-llm-wiki-vault/raw/02-papers/5C Prompt Contracts .pdf",
     "karpathy-llm-wiki-vault/raw/09-archive",
